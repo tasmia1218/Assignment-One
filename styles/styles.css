@@ -217,6 +217,7 @@
     display: flex;
     justify-content: center;
     margin: 0 auto;
+    margin-left: -100px;
 }
 .footer{
      width: 1600px;
