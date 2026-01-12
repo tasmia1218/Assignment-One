@@ -4,7 +4,7 @@
     box-sizing: border-box;     
  }
  .navbar{
-    width: 1536px;
+    width: 100%;
  }
 .logo{
     height: 92px;
@@ -54,7 +54,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 1600px;
+    width: 100%;
     height: 674px;
 
  
@@ -92,7 +92,7 @@
     justify-content:center ;
 }
 #problems .problems-container{
-    width: 1600px;
+    width: 100%;
     height: 448px;
     display: flex;
     justify-content: center ;
@@ -181,7 +181,7 @@
     margin-top: 16px;
 }
 .clngs{
-    width: 1600px;
+    width: 100%px;
     height: 506px;
     padding: 2px 120px 120px 120px;
 }
@@ -220,7 +220,7 @@
     margin-left: -100px;
 }
 .footer{
-     width: 1600px;
+     width: 100%px;
     height: 384px;
      margin: 120px 120 px 30px;
     justify-content: center;
